@@ -1,0 +1,74 @@
+/*******************************
+INDEX
+*******************************/
+.text-center{
+  width:100%;
+  margin-right:20%;
+}
+
+blockquote{
+  width:100%;
+}
+/*******************************
+REGISTRACIJA
+*******************************/
+.jumbotron{
+ width:100%;
+ margin-left:0%;
+}
+
+/*******************************
+MEDIAS
+*******************************/
+.img-circle{
+  width:30%;
+  margin-top:0px;
+  margin-left:35%;
+}
+
+.well{
+  width:80%;
+  margin-left:40px;
+  background-color:#FFFF66;
+}
+
+.btn{
+  margin-left:40%;
+}
+/*******************************
+MEDIA
+*******************************/
+
+@media (min-width: 769px) {
+/*****************************
+  FOOTER
+  ***************************/
+  .text-center h2{
+  margin-top:22%;
+  margin-right:20%;
+}
+  .img-circle{
+  width:10%;
+  margin-top:0px;
+  margin-left:45%;
+  margin-bottom:5px;
+}
+  blockquote{
+  margin-left:20%;
+  width:50%;
+}
+  .well{
+  width:20%;
+  margin-left:20px;
+}
+  .text-justify{
+  margin-left:30%;
+}
+  .btn{
+  margin-left:45%;
+}
+  .jumbotron{
+  width:50%;
+    margin-left:25%;
+}
+}
